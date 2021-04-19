@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DogValley
 - 👀 I’m interested in Azure, PowerShell, Python and walks on the beach.
-- 🌱 I’m always trying to learn new ways to use the technology at my disposal to create new cool things for money.
+- 🌱 I’m always figuring out new ways to use the technology at my disposal to create new cool things for money.
 - 📫 How to reach me; mikael (at) lognseth (dot) eu
 
 <!---
