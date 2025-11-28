@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @lognseth
-- 👀 I’m interested in cloud technologies, Kubernetes & containers, automation and everything-as-code.
-- 🌱 I’m always figuring out new ways to use the technology at my disposal to create new cool things for money.
-- 📫 How to reach me; lognseth (at) pm (dot) me
+# Hey there! 👋
 
-<!---
-lognseth/lognseth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Mikael, a (C)loud Engineer specializing in Azure cloud infrastructure and DevOps practices. Originally from Norway, currently based in Germany.
+
+## 🛠️ What I Do
+
+Lots of things NDAs prevent me from talking about.
+
+## 🌍 Languages
+
+- 🇬🇧 English (primary)
+- 🇩🇪 German (professional)
+- 🇳🇴 Norwegian (native)
+- 🇸🇪 Swedish & 🇩🇰 Danish (proficient)
+- 🇳🇱 Dutch (learning)
+
+---
+
+*"Infrastructure is only interesting when it's invisible."*
